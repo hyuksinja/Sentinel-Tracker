@@ -4,4 +4,6 @@ numpy
 matplotlib
 yfinance
 plotly
+xlsxwriter
 # Add any other libraries you import!
+
