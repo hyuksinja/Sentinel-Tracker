@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+matplotlib
+yfinance
+# Add any other libraries you import!
