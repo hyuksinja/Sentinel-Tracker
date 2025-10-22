@@ -141,7 +141,7 @@ def app():
     with st.sidebar:
        
         st.image(
-            r'C:\Users\GOPIKA\OneDrive\Desktop\financial tracker project\logo sential wealth.png',
+            'logo sential wealth.png',
             caption='Sentinel Wealth', 
             width=200 # Optional: Adjust the size (usually recommended to specify a width)
         )
@@ -372,3 +372,4 @@ def app():
 
 if __name__ == '__main__':
     app()
+
